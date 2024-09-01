@@ -98,3 +98,5 @@ o	Use a programmer or an emulator to load the generated .hex file into your 8051
 o	Power the system and observe the behavior of the relay and LED lights in response to the LDR sensor.
 
 
+
+
